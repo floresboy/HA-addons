@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: HiveMQ Edge
+# Home Assistant Add-on: HiveMQ Edge
 
 
 ## Control your IoT data
