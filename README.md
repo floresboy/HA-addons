@@ -13,6 +13,7 @@ repository to your Home Assistant instance is pretty easy. In the
 Home Assistant add-on store, a possibility to add a repository is provided.
 
 Use the following URL to add this repository:
+(after adding the repo a Ctrl F5 / Forced Reload of the HA Webpage might reveal updates otherwise not shown)
 
 ```txt
 https://github.com/floresboy/HA-addons
