@@ -4,8 +4,8 @@
 ## Installation
 
 In general, you need to install this add-on repository on your
-Home Assistant instance. Once added the individual addons in thes repo can be selected 
-in the add-on store screen.
+Home Assistant instance. Once added the individual addons in this repo can be selected 
+in the add-on store screen and be installed.
 
 
 However, if the repository is missing on your setup, adding this add-ons
