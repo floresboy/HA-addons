@@ -8,7 +8,7 @@ Home Assistant instance. Once added the individual addons in this repo can be se
 in the add-on store screen and be installed.
 
 
-However, if the repository is missing on your setup, adding this add-ons
+However, if the repository is missing on your setup, adding this add-on
 repository to your Home Assistant instance is pretty easy. In the
 Home Assistant add-on store, a possibility to add a repository is provided.
 

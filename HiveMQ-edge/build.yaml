@@ -3,5 +3,5 @@ build_from:
   aarch64: ghcr.io/hassio-addons/debian-base:8.2.0
   amd64: ghcr.io/hassio-addons/debian-base:8.2.0
 codenotary:
-  base_image: 
-  signer: 
+  base_image: k.straatman@home.nl
+  signer: k.straatman@home.nl

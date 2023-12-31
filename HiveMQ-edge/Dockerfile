@@ -114,10 +114,10 @@ LABEL \
     maintainer="Kamiel Straatman " \
     io.hass.name="${BUILD_NAME}" \
     io.hass.description="${BUILD_DESCRIPTION}" \
-    org.opencontainers.image.vendor="Home Assistant Community Add-ons" \
-    org.opencontainers.image.authors="kamiel.straatman@hivemq.com" \
-    org.opencontainers.image.licenses="MIT" \
-    org.opencontainers.image.url="https://addons.community" \
+    org.opencontainers.image.vendor="HA KS Add-ons" \
+    org.opencontainers.image.authors="kamiel@gmail.com" \
+    org.opencontainers.image.licenses="APACHE" \
+    org.opencontainers.image.url="" \
     org.opencontainers.image.source="https://github.com/${BUILD_REPOSITORY}" \
     org.opencontainers.image.documentation="https://github.com/${BUILD_REPOSITORY}/blob/main/README.md" \
     org.opencontainers.image.created=${BUILD_DATE} \
