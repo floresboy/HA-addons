@@ -1,10 +1,10 @@
 # HA-addons
- This repo holds Home Assistant Addons developped and maintained by Kamiel Straatman.
+ This repo holds Home Assistant Add-on's developped and maintained by Kamiel Straatman.
 
 ## Installation
 
-In general, you need to install this repository on your
-Home Assistant instance. Once added to Home Assistant individual addons can be selected 
+In general, you need to install this add-on repository on your
+Home Assistant instance. Once added the individual addons in thes repo can be selected 
 in the add-on store screen.
 
 
@@ -19,8 +19,6 @@ https://github.com/floresboy/HA-addons
 ```
 
 Add a repo :
-
-
 
 ![alt text][logo]
 
