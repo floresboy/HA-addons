@@ -11,4 +11,4 @@ It is a Java-based open source MQTT and MQTT-SN broker that fully supports MQTT 
 
 # License
 
-HiveMQ Edge is build by HiveMQ GmbH and is licensed under the `APACHE LICENSE, VERSION 2.0`. This is a comunity effort. HiveMQ is not in any way responsible for the correctness of this software and or it's HA addon components.
+HiveMQ Edge is build by HiveMQ GmbH and is licensed under the `APACHE LICENSE, VERSION 2.0`. This is a comunity effort. HiveMQ is not in any way responsible for the correctness of this software, the repo as such and/or it's HA addon components.
